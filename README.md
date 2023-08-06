@@ -10,7 +10,7 @@ _I'm also a web dev_ 👨‍💻 _and mobile dev_ 📱 _enthusiast_
 
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/davidcarvalhido"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/david-carvalhido"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://www.twitter.com/davidcarvalhido"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 <a href="http://www.instagram.com/david_carvalhido"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://www.codepen.io/davidcc"><img src="https://img.shields.io/badge/CodePen-grey?style=for-the-badge&logo=codepen&logoColor=white" alt="LinkedIn Badge"></a>
